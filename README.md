@@ -7,6 +7,7 @@ Construire un modèle prédictif : Prédire si une équipe va gagner, faire matc
 Visualiser l'arbre de décision : Fournir une interprétation claire des décisions prises par le modèle.
 
 🧧📚Bibliothèques utilisées
+
 ⚙️1. pandas
 Utilité :
 Permet de lire, manipuler et analyser des données tabulaires (comme un fichier CSV).
